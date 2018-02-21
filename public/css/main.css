@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family:Raleway,sans-serif;
+}
+nav,.btn-search {
+  background-color:rgb(247, 83, 83);
+  color: whitesmoke;
+}
+h1{
+  padding: 3%;
+}
+.btn-modal{
+  background-color:rgb(17, 158, 17);
+  color: whitesmoke;
+  margin-left: 2%;
+}
+textarea{
+  width: 98%;
+}
+h2{
+  padding: 3%;
+}
+.search{
+  margin-left: 1%;
+}
+.line{
+  width: 100%;
+  border: 1px solid rgb(218, 172, 172);
+  margin-top: 5%;
+}
+.modal-title{
+color: rgb(236, 141, 141);
+}
+.container{
+  background: url('../assets/images/back.jpg') center center fixed;
+}
